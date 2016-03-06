@@ -1,2 +1,7 @@
 # mystub
-MyLocal repository  for all POCs which currently i'm doing
+Kaltura with ReactJS
+
+Installing Instructions:
+* npm install
+* npm run start
+* Navigate http://localhost:8181/
