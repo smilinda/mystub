@@ -1,0 +1,16 @@
+#mainDiv{
+    width: 800px;
+    height: au auto;   
+    margin-left: 10%;
+    align-content: center;
+}
+#kPlayer{
+    width: 400px;
+    height: 333px;
+    border: 1px solid black;    
+}
+#msg{
+	width: 300px;
+    height: 100px;    
+    overflow:scroll; 
+}
